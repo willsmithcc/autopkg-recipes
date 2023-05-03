@@ -37,7 +37,7 @@ See the following URL for possible LOCALE values:
 			<key>Arguments</key>
 			<dict>
 				<key>re_pattern</key>
-				<string>"%LATEST_RELEASE%"ESR: "([\d\.abesr]+)"</string>
+				<string>"%LATEST_RELEASE%": "([\d\.abesr]+)"</string>
 				<key>result_output_var_name</key>
 				<string>version</string>
 				<key>url</key>
@@ -50,7 +50,7 @@ See the following URL for possible LOCALE values:
 			<key>Arguments</key>
 			<dict>
 				<key>filename</key>
-				<string>%NAME%-%version%.pkg</string>
+				<string>%NAME%ESR-%version%.pkg</string>
 				<key>url</key>
 				<string>https://releases.mozilla.org/pub/firefox/releases/%version%/mac/%LOCALE%/Firefox%20%version%.pkg</string>
 			</dict>
