@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Comment</key>
-	<string>Recipe automatically generated from com.github.nstrauss.download.GoogleDrive by JamfRecipeMaker</string>
+	<string>Recipe automatically generated from com.github.nstrauss.pkg.GoogleDrive by JamfRecipeMaker</string>
 	<key>Identifier</key>
 	<string>com.willsmithcc.autopkg-recipes.jamf.GoogleDrive-pkg-upload</string>
 	<key>Input</key>
@@ -16,7 +16,7 @@
 	<key>MinimumVersion</key>
 	<string>2.3</string>
 	<key>ParentRecipe</key>
-	<string>com.github.nstrauss.download.GoogleDrive</string>
+	<string>com.github.nstrauss.pkg.GoogleDrive</string>
 	<key>Process</key>
 	<array>
 		<dict>
