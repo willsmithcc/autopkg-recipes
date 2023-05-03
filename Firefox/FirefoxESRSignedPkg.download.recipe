@@ -37,7 +37,7 @@ See the following URL for possible LOCALE values:
 			<key>Arguments</key>
 			<dict>
 				<key>re_pattern</key>
-				<string>"%LATEST_RELEASE%": "([\d\.abesr]+)"</string>
+				<string>"%LATEST_RELEASE%": "([\d\.ab]+)"</string>
 				<key>result_output_var_name</key>
 				<string>version</string>
 				<key>url</key>
